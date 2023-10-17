@@ -1,7 +1,7 @@
 # Animes! 
 Projeto Dev em dobro com tela home para escolha de animes e mais personagens!.
 
-#Tela Home
+# Tela Home
 ![Home1](https://github.com/vidalcarlos1/anime/assets/103275240/8c0b25ed-971c-4380-936b-76af3332c7e0)
 
 #Bleach
